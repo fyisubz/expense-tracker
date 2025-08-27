@@ -26,18 +26,13 @@ We developed a comprehensive **Expense Tracker** application using Python with S
 ![Expense Analytics](https://github.com/yourusername/expense-tracker/blob/main/images/expense-analytics.png?raw=true)
 *Interactive bar chart showing detailed expenses by category breakdown (Food, Laptop, College)*
 
-### Expense Management
-![Expense List](https://github.com/yourusername/expense-tracker/blob/main/images/expense-list.png?raw=true)
-*Complete expense tracking with ID, Date, Category, Amount, and Description for efficient data management*
-
 ## 📁 Project Structure
 
 ```
 ExpenseTracker/
 ├── images/                 # Application screenshots
 │   ├── main-dashboard.png
-│   ├── expense-analytics.png
-│   └── expense-list.png
+│   └── expense-analytics.png
 ├── extrack.py              # Main GUI application
 ├── db.py                   # Database operations
 ├── models.py               # Data models
