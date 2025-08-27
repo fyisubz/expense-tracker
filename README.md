@@ -19,11 +19,11 @@ We developed a comprehensive **Expense Tracker** application using Python with S
 ## 📸 Application Screenshots
 
 ### Main Dashboard
-![Main Dashboard](https://github.com/yourusername/expense-tracker/blob/main/images/main-dashboard.png?raw=true)
+![Main Dashboard](https://raw.githubusercontent.com/fyisubz/expense-tracker/main/images/main-dashboard.png)
 *Clean interface with expense entry form, data table, and comprehensive budget management controls*
 
 ### Data Visualization
-![Expense Analytics](https://github.com/yourusername/expense-tracker/blob/main/images/expense-analytics.png?raw=true)
+![Expense Analytics](https://raw.githubusercontent.com/fyisubz/expense-tracker/main/images/expense-analytics.png)
 *Interactive bar chart showing detailed expenses by category breakdown (Food, Laptop, College)*
 
 ## 📁 Project Structure
