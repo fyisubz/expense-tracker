@@ -6,7 +6,7 @@ We developed a comprehensive **Expense Tracker** application using Python with S
 
 • We integrated sample data and implemented core functionalities: adding, updating, deleting, and viewing expenses with budget management and analysis reports.
 
-• On the **frontend**, we built a **Tkinter GUI** with interactive charts using **Pandas** for data manipulation and **Matplotlib** for beautiful visualizations.
+• On the **frontend**, we built a **Tkinter GUI** with interactive charts using **Pandas** for data manipulation and **Matplotlib/Seaborn** for beautiful visualizations.
 
 ## 🛠️ Tech Stack
 
@@ -15,6 +15,7 @@ We developed a comprehensive **Expense Tracker** application using Python with S
 ![Tkinter](https://img.shields.io/badge/tkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📸 Application Screenshots
 
@@ -48,7 +49,7 @@ ExpenseTracker/
 • Add, update, delete expense records with category organization
 • Budget tracking with alerts and visual notifications  
 • Advanced analytics using Pandas for data insights
-• Beautiful Matplotlib charts: bar charts and category breakdowns
+• Beautiful Matplotlib and Seaborn charts: bar charts and category breakdowns
 • Interactive Tkinter dashboard with real-time tracking
 • Export capabilities (CSV, Excel formats)
 
@@ -81,7 +82,7 @@ python extrack.py
 - **db.py** - SQLite database management  
 - **models.py** - Data models with validation
 - **budget.py** - Budget tracking and alerts
-- **analysis.py** - Pandas/Matplotlib analytics and visualizations
+- **analysis.py** - Pandas/Matplotlib/Seaborn analytics and visualizations
 
 ## 🤝 Contributing
 
