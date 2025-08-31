@@ -1,5 +1,3 @@
 pandas
 seaborn
 matplotlib
-tk
-sqlite3
