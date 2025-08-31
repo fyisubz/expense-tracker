@@ -62,7 +62,7 @@ ExpenseTracker/
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/fyisubz/expense-tracker.git
 cd expense-tracker
 ```
 
