@@ -96,4 +96,4 @@ python extrack.py
 
 MIT License - see [LICENSE](LICENSE) file.
 
-Project Link: [https://github.com/yourusername/expense-tracker](https://github.com/yourusername/expense-tracker)
+Project Link: [https://github.com/fyisubz/expense-tracker](https://github.com/yourusername/expense-tracker)
